@@ -6,10 +6,11 @@ This project features an interactive Excel dashboard designed to analyze the ski
 
 Watch the dashboard dynamically update as different job titles are selected.
 
-<video width="100%" controls>
-  <source src="data_job_analysis_recording.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/user-attachments/assets/c0ebec08-1b9b-436a-b1bb-888de0400379
+
+
 
 _(Note: If the video preview is not supported by your markdown viewer, please open the `data_job_analysis_recording.mp4` file included in this directory to view the demonstration.)_
 
