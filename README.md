@@ -1,6 +1,6 @@
 # Data Job Skills & Salary Analysis Dashboard
 
-This project features an interactive Excel dashboard designed to analyze the skills, demand, and salaries for various data-related professions[cite: 1]. It serves as a visual guide for data professionals to evaluate whether learning a specific skill is highly demanded or highly lucrative for their desired career path[cite: 1].
+This project features an interactive Excel dashboard designed to analyze the skills, demand, and salaries for various data-related professions. It serves as a visual guide for data professionals to evaluate whether learning a specific skill is highly demanded or highly lucrative for their desired career path.
 
 ## 🎥 Dashboard Demo
 
@@ -16,18 +16,18 @@ _(Note: If the video preview is not supported by your markdown viewer, please op
 
 ## 🛠️ Key Features
 
-- **Interactive Slicer:** Includes a clickable menu on the right side of the screen to filter data by specific job titles, such as Business Analyst, Cloud Engineer, Data Analyst, Data Engineer, and Data Scientist[cite: 1].
-- **Dual-Metric Combo Chart:** Overlays a line graph on top of a bar chart to compare two different metrics simultaneously[cite: 1].
-  - **Average Yearly Salary:** Displayed as blue bars, representing the average pay for jobs requiring specific skills, read via the left-hand vertical axis[cite: 1].
-  - **Job Count (Demand):** Displayed as a line graph, showing how many job postings actively ask for the skill, read via the right-hand vertical axis[cite: 1].
-- **Dynamic Data Table:** Provides the raw numerical values for the exact job count and average salary, instantly repopulating to show the top skills whenever a new job title is selected[cite: 1].
+- **Interactive Slicer:** Includes a clickable menu on the right side of the screen to filter data by specific job titles, such as Business Analyst, Cloud Engineer, Data Analyst, Data Engineer, and Data Scientist.
+- **Dual-Metric Combo Chart:** Overlays a line graph on top of a bar chart to compare two different metrics simultaneously.
+  - **Average Yearly Salary:** Displayed as blue bars, representing the average pay for jobs requiring specific skills, read via the left-hand vertical axis.
+  - **Job Count (Demand):** Displayed as a line graph, showing how many job postings actively ask for the skill, read via the right-hand vertical axis.
+- **Dynamic Data Table:** Provides the raw numerical values for the exact job count and average salary, instantly repopulating to show the top skills whenever a new job title is selected.
 
 ## 📊 Data Insights
 
-The dashboard illustrates how the required software tools and languages completely shift depending on the selected role[cite: 1].
+The dashboard illustrates how the required software tools and languages completely shift depending on the selected role.
 
-- When filtering for a **Business Analyst**, the dashboard highlights demand for tools like Python, R, SAS, Tableau, SQL, Power BI, Excel, and Word[cite: 1].
-- When switching to a **Cloud Engineer**, the graph entirely changes to highlight hardcore infrastructure and data tools like MongoDB, Databricks, Airflow, Spark, Kafka, Terraform, AWS, and Azure, alongside notably higher salary brackets[cite: 1].
+- When filtering for a **Business Analyst**, the dashboard highlights demand for tools like Python, R, SAS, Tableau, SQL, Power BI, Excel, and Word.
+- When switching to a **Cloud Engineer**, the graph entirely changes to highlight hardcore infrastructure and data tools like MongoDB, Databricks, Airflow, Spark, Kafka, Terraform, AWS, and Azure, alongside notably higher salary brackets.
 
 ## 🚀 How to Use
 
