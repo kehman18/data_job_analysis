@@ -1,4 +1,3 @@
-# data_job_analysis
 # Data Job Skills & Salary Analysis Dashboard
 
 This project features an interactive Excel dashboard designed to analyze the skills, demand, and salaries for various data-related professions[cite: 1]. It serves as a visual guide for data professionals to evaluate whether learning a specific skill is highly demanded or highly lucrative for their desired career path[cite: 1].
